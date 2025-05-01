@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.iditunes.finite_gemstone_music_disc.desc"
+  },
+  "length_in_seconds": 115.0,
+  "sound_event": "iditunes:finite_gemstone"
+}

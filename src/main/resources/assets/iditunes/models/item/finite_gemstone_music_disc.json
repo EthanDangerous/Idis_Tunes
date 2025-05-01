@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "iditunes:item/finite_gemstone_music_disc"
+  }
+}

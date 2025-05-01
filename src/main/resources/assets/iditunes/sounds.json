@@ -1,0 +1,10 @@
+{
+  "finite_gemstone": {
+    "sounds": [
+      {
+        "name": "iditunes:finite_gemstone",
+        "stream": true
+      }
+    ]
+  }
+}
